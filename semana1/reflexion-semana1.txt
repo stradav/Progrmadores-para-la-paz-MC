@@ -1,0 +1,12 @@
+Reflexión de la semana 
+La relación que encuentro entre estos tres elementos es directa y práctica. 
+El uso responsable de la información en internet nos convierte en ciudadanos digitales éticos,
+capaces de verificar datos, contrastar fuentes y no contribuir a la desinformación; 
+esto es la base de una participación ciudadana sólida, ya sea opinando en redes, 
+firmando peticiones o debatiendo propuestas con argumentos ciertos. Ahora bien, 
+cuando llevamos esa misma lógica a la organización del trabajo técnico con herramientas como Git,
+el paralelo se vuelve evidente: así como en la red debemos verificar antes de compartir,
+en Git debemos revisar cambios, documentar bien y validar aportes antes de fusionarlos,
+fomentando una colaboración transparente y confiable. En esencia, tanto en la esfera pública digital 
+como en el desarrollo de software, se trata de actuar con trazabilidad, respeto por el trabajo colectivo y 
+responsabilidad sobre lo que se publica o modifica.
