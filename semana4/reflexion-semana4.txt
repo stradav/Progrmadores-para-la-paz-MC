@@ -1,0 +1,12 @@
+Es muy importante que las comunidades puedan crear sus propias
+herramientas tecnológicas porque así no dependen de grandes empresas
+ni de soluciones que no se adaptan a sus necesidades reales. Node.js
+es una tecnología abierta y gratuita que permite construir servidores,
+aplicaciones web y APIs sin pagar licencias. Esto democratiza el acceso
+a la tecnología y fomenta la autonomía de los colectivos ciudadanos.
+Además, al ser JavaScript tanto en el frontend como en el backend, se
+reduce la curva de aprendizaje y más personas pueden participar en el
+desarrollo de proyectos. Con herramientas como Express se pueden
+generar prototipos rápidamente, lo que permite probar ideas y responder
+a problemáticas locales con soluciones digitales hechas por y para la
+comunidad.
