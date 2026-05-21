@@ -1,0 +1,9 @@
+Ruta http://localhost:3000:
+Muestra el texto "Servidor activo", indicando que el servidor funciona.
+
+Ruta http://localhost:3000/saludo:
+Responde con el mensaje "Hola comunidad de programadores para la paz", demostrando una ruta fija.
+
+Ruta http://localhost:3000/mensaje/juan:
+El servidor toma "Camila" como parámetro y responde "Hola Camila".
+Si se cambia "juan" por otro nombre, el mensaje se personaliza.

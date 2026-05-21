@@ -1,0 +1,12 @@
+Las APIs permiten que distintas aplicaciones se comuniquen de forma
+estructurada, lo que es muy útil para las comunidades. Por ejemplo, una
+API puede recibir reportes de ciudadanos desde un formulario web o una
+app móvil y centralizarlos en un mismo lugar. Así, la información se
+comparte de manera organizada, sin depender de mensajes de WhatsApp o
+redes sociales donde se pierde. Además, con APIs se pueden generar
+alertas automáticas, como notificaciones ante emergencias, y compartir
+datos actualizados con todas las personas interesadas. Esto fomenta la
+participación y la transparencia, ya que cualquier persona puede acceder
+a la información pública que la API ofrezca. Node.js y Express facilitan
+la creación de estas herramientas sin grandes costos, empoderando a las
+comunidades para desarrollar sus propias soluciones tecnológicas.
