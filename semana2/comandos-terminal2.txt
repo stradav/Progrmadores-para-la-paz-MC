@@ -1,39 +1,13 @@
 cd C:\Users\Camila\Progrmadores-para-la-paz-MC
- mkdir semana2
-    Directorio: C:\Users\Camila\Progrmadores-para-la-paz-MC
-
-
-Mode                 LastWriteTime         Length Name                                              
-----                 -------------         ------ ----                                              
-d-----     20/05/2026  12:20 a. m.                semana2                                           
-
-
+mkdir semana2
 cd semana2
->> code preguntas-semana2.txt
->> code comandos-terminal2.txt
->> code algoritmo-semana2.txt
-
-cd
+code preguntas-semana2.txt
+code comandos-terminal2.txt
+code algoritmo-semana2.txt
+cd ..
 git add .
 git commit -m "Actividad semana 2"
+git push
 ls
-    Directorio: C:\Users\Camila\Progrmadores-para-la-paz-MC\semana2
-
-
-Mode                 LastWriteTime         Length Name                                              
-----                 -------------         ------ ----                                              
--a----     20/05/2026  12:28 a. m.            886 algoritmo-semana2.txt                             
--a----     20/05/2026  12:28 a. m.            118 comandos-terminal2.txt                            
--a----     20/05/2026  12:28 a. m.            112 preguntas-semana2.txt                             
-
-
 Rename-Item "algoritmo-semana2.txt" -NewName "reflexion-semana2.txt"
 ls
-    Directorio: C:\Users\Camila\Progrmadores-para-la-paz-MC\semana2
-
-
-Mode                 LastWriteTime         Length Name                                              
-----                 -------------         ------ ----                                              
--a----     20/05/2026  12:28 a. m.            118 comandos-terminal2.txt                            
--a----     20/05/2026  12:28 a. m.            112 preguntas-semana2.txt                             
--a----     20/05/2026  12:28 a. m.            886 reflexion-semana2.txt       
