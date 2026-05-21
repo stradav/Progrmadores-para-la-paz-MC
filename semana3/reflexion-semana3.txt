@@ -1,0 +1,10 @@
+Mantener un registro de cambios con Git es fundamental porque permite
+saber exactamente qué se modificó, quién lo hizo y cuándo. Si aparece
+un error, se puede volver a una versión anterior del código sin perder
+el trabajo. Además, la trazabilidad facilita la colaboración en equipo,
+ya que cada integrante entiende el historial del proyecto y se evitan
+conflictos. Git también sirve como respaldo, pues al publicar los cambios
+en GitHub siempre tendremos una copia segura en la nube. Para cualquier
+desarrollador, dominar Git es casi tan importante como saber programar,
+porque sin un buen control de versiones los proyectos crecen sin orden
+y se vuelven difíciles de mantener.

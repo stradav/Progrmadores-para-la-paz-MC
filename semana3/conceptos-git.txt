@@ -1,0 +1,17 @@
+Repositorio:
+Imagina una carpeta especial que guarda no solo tus archivos, sino también
+todos los cambios que has hecho a lo largo del tiempo. Un repositorio es
+ese lugar donde vives tu proyecto, y gracias a él puedes ver cómo estaba
+todo ayer, la semana pasada o recuperar algo que borraste sin querer.
+
+Commit:
+Un commit es como tomar una foto del proyecto en un momento exacto.
+Cada vez que haces un commit, guardas el estado de todos los archivos
+con un mensaje que dice qué hiciste. Así puedes volver a cualquiera de
+esas fotos cuando lo necesites, como si viajaras en el tiempo.
+
+Push:
+Push significa "empujar" los commits que tienes en tu computadora hacia
+un repositorio en internet, como GitHub. Es como subir tus fotos del
+proyecto a la nube para que otras personas puedan verlas o para que tú
+mismo tengas una copia de seguridad desde cualquier lugar.
