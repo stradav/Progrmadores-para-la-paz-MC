@@ -1,0 +1,12 @@
+Es muy importante que las comunidades puedan registrar y consultar
+reportes en una plataforma tecnológica porque centraliza la información
+de manera ordenada. Sin una herramienta así, los reportes suelen perderse
+en grupos de WhatsApp o redes sociales. Una API permite que cualquier
+persona, desde un celular o computadora, pueda enviar un reporte sobre
+un problema de infraestructura, ambiental o de seguridad. Luego, otros
+vecinos o las autoridades pueden consultar esos reportes, verificar su
+estado y tomar decisiones. Además, la información queda disponible para
+su análisis, lo que ayuda a identificar patrones y priorizar soluciones.
+Tecnologías como Node.js y Express hacen posible crear estas plataformas
+con poco presupuesto, empoderando a las comunidades para gestionar sus
+propias necesidades.

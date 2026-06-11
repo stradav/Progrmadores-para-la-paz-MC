@@ -1,0 +1,13 @@
+Cuando se consulta la ruta GET /reportes, el servidor devuelve un arreglo
+JSON con todos los reportes que se han registrado hasta el momento.
+Inicialmente está vacío, pero después de enviar uno o varios POST con
+datos de reportes (tipo y descripción), estos aparecen listados con
+su respectivo id. Por ejemplo:
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+La lista se mantiene en memoria mientras el servidor esté encendido.
