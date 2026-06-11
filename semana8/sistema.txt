@@ -1,0 +1,10 @@
+El comando "systeminfo" muestra detalles del sistema operativo, como el nombre
+del SO, la versión, la arquitectura y más. Es útil para saber en qué entorno
+se está ejecutando el servidor y diagnosticar problemas de compatibilidad.
+
+El comando "whoami" devuelve el nombre del usuario actual. En la administración
+de servidores, es importante saber con qué usuario se está trabajando para no
+realizar cambios con permisos inadecuados.
+
+Conocer esta información ayuda a verificar la configuración del sistema y a
+aplicar políticas de seguridad según el entorno.

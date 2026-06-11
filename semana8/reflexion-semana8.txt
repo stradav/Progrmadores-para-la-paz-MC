@@ -1,0 +1,11 @@
+La seguridad digital es fundamental en las plataformas comunitarias porque
+protege la información de las personas y garantiza la confianza en el sistema.
+Si los datos personales o los reportes ciudadanos quedan expuestos, se puede
+poner en riesgo la privacidad y hasta la integridad de los participantes.
+Además, un sistema vulnerable puede ser atacado, manipulado o usado para
+desinformar, lo que arruinaría el propósito participativo. Con buenas prácticas
+como el cifrado, contraseñas seguras y control de accesos, se crea un entorno
+confiable donde la comunidad se siente segura para expresarse. La tecnología
+abierta no solo debe ser libre, sino también segura, para que todos puedan
+participar sin miedo. Por eso, cada desarrollador debe incorporar la seguridad
+desde el primer momento y no como un añadido posterior.
