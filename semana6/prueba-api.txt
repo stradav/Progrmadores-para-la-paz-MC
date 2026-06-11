@@ -1,0 +1,11 @@
+Cuando se envía una petición POST a /registro con los datos
+{ "nombre": "Maria", "mensaje": "Hola comunidad" }, el servidor
+responde con un objeto JSON que contiene:
+
+- "estado": "Datos recibidos"
+- "nombre": "Maria"
+- "mensaje": "Hola comunidad"
+
+Esto confirma que Express leyó correctamente los datos del
+cuerpo de la solicitud gracias a app.use(express.json()) y
+pudo acceder a ellos mediante req.body.

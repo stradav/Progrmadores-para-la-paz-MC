@@ -1,0 +1,12 @@
+Es muy importante que las plataformas puedan recibir reportes
+ciudadanos de forma estructurada porque así se evita la pérdida
+de información y se puede procesar automáticamente. Cuando un
+vecino envía un JSON con el tipo de problema y su descripción,
+el sistema puede clasificarlo, asignarle un responsable o
+generar estadísticas. Sin un formato definido, cada reporte
+llegaría de manera desordenada, dificultando su atención.
+Además, el uso de JSON permite que distintos dispositivos
+(celulares, computadoras, otras aplicaciones) envíen datos
+sin depender de una sola interfaz. Esto hace la comunicación
+más eficiente y transparente, y empodera a la comunidad al
+darle un canal claro y organizado para hacerse escuchar.
