@@ -1,5 +1,5 @@
-1. No exponer datos personales de los usuarios.
-2. Usar contraseñas robustas y almacenarlas cifradas.
-3. Implementar conexiones seguras (HTTPS).
-4. Registrar y monitorear los accesos a la plataforma.
-5. Limitar el acceso a información sensible solo a roles autorizados.
+1. Anonimizar los datos personales al mostrar reportes públicos.
+2. Realizar copias de seguridad periódicas de la información.
+3. Revisar y actualizar permisos de acceso cada cierto tiempo.
+4. Validar todos los datos que envían los usuarios para evitar código malicioso.
+5. Educar a la comunidad sobre cómo proteger sus propias cuentas.
