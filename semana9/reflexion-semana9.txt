@@ -1,0 +1,12 @@
+Las plataformas comunitarias deben funcionar de manera estable y segura
+porque manejan información sensible de las personas y son el canal para
+la participación ciudadana. Si el servidor se cae o presenta fallos, se
+pierde la confianza y los reportes no llegan a tiempo, lo que puede tener
+consecuencias reales en la comunidad. Un servidor estable garantiza que
+los servicios estén disponibles cuando más se necesitan. Además, la
+seguridad es esencial para proteger los datos contra accesos no autorizados,
+evitando que la información se use con fines maliciosos. Con Node.js y
+Express podemos construir aplicaciones robustas que, aunque sean simples
+al inicio, sientan las bases para un sistema confiable. Al aprender sobre
+puertos, logs y monitoreo, damos pasos hacia la administración responsable
+de la tecnología comunitaria.

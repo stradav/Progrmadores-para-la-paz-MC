@@ -1,0 +1,24 @@
+Sistema operativo:
+Es el software base que administra los recursos del computador y permite
+ejecutar otros programas. En un servidor, gestiona la memoria, el disco
+y la red, y ofrece un entorno seguro y estable para Node.js.
+
+Node.js:
+Es un entorno de ejecución de JavaScript construido sobre el motor V8.
+Permite ejecutar código JavaScript en el servidor, manejar muchas
+conexiones al mismo tiempo y crear aplicaciones rápidas y escalables.
+
+Aplicación server.js:
+Es el programa que contiene la lógica del servidor: define rutas,
+procesa solicitudes y devuelve respuestas. Usa Express para simplificar
+la creación de APIs y el manejo de JSON.
+
+Puerto:
+Es un número que identifica un punto de acceso específico en el sistema.
+El servidor "escucha" en un puerto (en este caso el 3000) y todas las
+solicitudes que lleguen a esa dirección se dirigen a nuestra aplicación.
+
+Logs:
+Son archivos que registran eventos, errores y solicitudes del servidor.
+Permiten monitorear el funcionamiento, depurar fallas y detectar
+comportamientos anómalos, lo que ayuda a mantener la estabilidad.
