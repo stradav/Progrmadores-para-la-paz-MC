@@ -1,0 +1,21 @@
+Modelo de datos para "Petición en 3 Clics"
+
+Entidad: Causa
+Campos:
+- id (número único)
+- titulo (texto)
+- descripcion (texto)
+- fecha (fecha de creación)
+
+Propósito:
+Almacenar cada petición o causa creada por la comunidad, incluyendo su contenido y cuándo fue registrada.
+
+Entidad: Apoyo
+Campos:
+- id (número único)
+- causa_id (número, relacionado con el id de la causa)
+- nombre (texto, solo un alias o iniciales para proteger la privacidad)
+- fecha (fecha del apoyo)
+
+Propósito:
+Registrar cada apoyo o firma que recibe una causa, permitiendo contabilizar el respaldo sin almacenar datos personales sensibles.

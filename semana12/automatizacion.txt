@@ -1,0 +1,10 @@
+Automatización para "Petición en 3 Clics"
+
+¿Qué evento activa la automatización?
+Cuando una causa alcanza la meta de apoyos (por ejemplo, 50 apoyos).
+
+¿Qué mensaje se enviaría a Telegram?
+"¡Meta alcanzada! La causa '[título de la causa]' ha conseguido 50 apoyos. El documento PDF está listo para ser descargado y presentado."
+
+¿Qué información no debe enviarse por seguridad?
+No se debe incluir en el mensaje: nombres completos, cédulas, direcciones, teléfonos ni ningún otro dato personal de los firmantes. Solo se comparte el título de la causa y la cantidad de apoyos.
