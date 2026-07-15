@@ -1,0 +1,14 @@
+La interfaz principal mostraría una lista de causas comunitarias,
+cada una con su título, una breve descripción y la cantidad de apoyos
+que ha recibido.
+
+Debajo de cada causa habría un botón "Apoyar" que, al ser presionado,
+incrementa el contador de apoyos. Este botón solo estaría disponible
+para usuarios que hayan iniciado sesión.
+
+En la parte superior de la página, un botón "Nueva causa" llevaría a
+un formulario con campos para título, descripción y fecha. Al enviarlo,
+la causa se agregaría a la lista.
+
+La interfaz sería limpia y no mostraría datos personales de los
+usuarios que apoyan, solo la cantidad de apoyos.

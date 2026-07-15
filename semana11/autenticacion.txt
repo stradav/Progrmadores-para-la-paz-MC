@@ -1,0 +1,11 @@
+El login es el mecanismo que permite a un usuario identificarse
+con un nombre de usuario y una contraseña antes de acceder a
+funciones restringidas de la aplicación.
+
+Algunas rutas deben estar protegidas porque pueden dar acceso a
+información privada, permitir modificar datos sensibles o ejecutar
+acciones que solo ciertos usuarios autorizados deberían realizar.
+
+No se debe exponer públicamente: contraseñas, números de documento,
+direcciones, teléfonos, tokens de acceso, claves API ni ningún dato
+que pueda comprometer la privacidad o seguridad de las personas.

@@ -1,0 +1,12 @@
+Una plataforma de participación ciudadana necesita una base de datos
+para almacenar de forma ordenada las causas, apoyos y usuarios, y poder
+recuperarlos cuando se necesiten. Sin base de datos, la información se
+perdería al apagar el servidor y no se podrían generar estadísticas ni
+hacer seguimiento. La autenticación de usuarios es clave para saber
+quién apoya cada causa, evitar suplantaciones y controlar que solo
+personas autorizadas modifiquen contenido sensible. Además, proteger
+la información es una obligación ética y legal: los datos personales
+de los ciudadanos no deben quedar expuestos a terceros ni ser usados
+sin consentimiento. Una plataforma segura y bien estructurada fomenta
+la confianza, incentiva la participación y protege a la comunidad de
+posibles abusos.
