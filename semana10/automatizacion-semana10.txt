@@ -1,0 +1,10 @@
+Flujo de automatización:
+
+¿Qué evento activa el flujo?
+Cuando un ciudadano envía un nuevo reporte a través del formulario de la aplicación (ruta POST /reportes).
+
+¿Qué mensaje se enviaría a Telegram?
+"Nuevo reporte recibido. Tipo: [tipo de incidencia]. Revisar el sistema para más detalles."
+
+¿Qué información no debería enviarse por seguridad?
+No se debe incluir en el mensaje de Telegram: nombres completos, números de documento, direcciones exactas, teléfonos, contraseñas, tokens ni ningún dato que permita identificar personalmente al ciudadano. Solo se comparte un aviso genérico con el tipo de incidencia.

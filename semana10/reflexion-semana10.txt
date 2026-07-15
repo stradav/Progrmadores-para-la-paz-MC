@@ -1,0 +1,11 @@
+Las metodologías ágiles ayudan a organizar mejor una comunidad porque dividen
+el trabajo en pequeñas tareas con prioridades claras, permitiendo entregar
+resultados rápidamente y adaptarse a cambios. Con un backlog, todos saben qué
+se está haciendo y qué sigue. La automatización con n8n evita tareas manuales
+repetitivas, como notificar a todo el equipo cada vez que llega un reporte,
+ahorrando tiempo y reduciendo errores. Usar Telegram como canal de notificación
+es práctico porque casi todo el mundo lo tiene en el celular y no requiere
+instalar nada adicional. En conjunto, estas herramientas crean un ciclo ágil:
+la comunidad reporta, el sistema notifica, el equipo atiende y la comunidad
+recibe respuesta. Esto fortalece la participación y la confianza, porque la
+tecnología se vuelve un puente transparente entre ciudadanos y gestores.
